@@ -1,0 +1,1 @@
+document.getElementById("assessment").innerHTML = myQuiz();
